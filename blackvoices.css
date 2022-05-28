@@ -11,23 +11,23 @@ html, body{
 
 @font-face{
     font-family: Header;
-    src: url(../fonts/RoslindaleText-Bold.ttf);
+    src: url(fonts/RoslindaleText-Bold.ttf);
 }
 @font-face{
     font-family: Subhead;
-    src: url(../fonts/Prompt-Medium.ttf);
+    src: url(fonts/Prompt-Medium.ttf);
 }
 @font-face{
     font-family: Body;
-    src: url(../fonts/Prompt-Light.ttf);
+    src: url(fonts/Prompt-Light.ttf);
 }
 @font-face{
     font-family: Regular;
-    src: url(../fonts/RoslindaleText-Regular.ttf);
+    src: url(fonts/RoslindaleText-Regular.ttf);
 }
 @font-face{
     font-family: Nav;
-    src: url(../fonts/Prompt-Thin.ttf);
+    src: url(fonts/Prompt-Thin.ttf);
 }
 
 /* nav bar  */
